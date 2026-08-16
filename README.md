@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shivamptdr/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/Shivamptdr/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shivamptdr/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0455-assign-cookies](https://github.com/Shivamptdr/Leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shivamptdr/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shivamptdr/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/Shivamptdr/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shivamptdr/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shivamptdr/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1140-stone-game-ii](https://github.com/Shivamptdr/Leetcode/tree/master/1140-stone-game-ii) |
@@ -158,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Shivamptdr/Leetcode/tree/master/0455-assign-cookies) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shivamptdr/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shivamptdr/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
