@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Shivamptdr/Leetcode/tree/master/0115-distinct-subsequences) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivamptdr/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivamptdr/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivamptdr/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivamptdr/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -207,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Shivamptdr/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivamptdr/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivamptdr/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
