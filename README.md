@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shivamptdr/Leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shivamptdr/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1140-stone-game-ii](https://github.com/Shivamptdr/Leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shivamptdr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Shivamptdr/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivamptdr/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Shivamptdr/Leetcode/tree/master/2029-stone-game-ix) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shivamptdr/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Shivamptdr/Leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shivamptdr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Shivamptdr/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shivamptdr/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Shivamptdr/Leetcode/tree/master/2029-stone-game-ix) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shivamptdr/Leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shivamptdr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Shivamptdr/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shivamptdr/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
@@ -242,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivamptdr/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shivamptdr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shivamptdr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
